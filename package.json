@@ -1,0 +1,15 @@
+{
+  "name": "rick-bot",
+  "version": "0.0.1",
+  "description": "Discord bot from Kinokiita",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Armin Seidling",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.1.0"
+  }
+}
