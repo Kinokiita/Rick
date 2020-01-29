@@ -3,6 +3,10 @@
 
 
 # Configuration
+> Creating the .env
+```bash
+cp .env.example .env
+```
 > /.env
 ```bash
 TOKEN=token-string
